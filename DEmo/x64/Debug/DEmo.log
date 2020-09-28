@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\projects\demo\demo\source.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rotate.cpp
+d:\projects\demo\demo\rotate.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\demo\demo\rotate.cpp(39): warning C4551: function call missing argument list
+  Generating Code...
+  DEmo.vcxproj -> D:\Projects\DEmo\x64\Debug\DEmo.exe
+  DEmo.vcxproj -> D:\Projects\DEmo\x64\Debug\DEmo.pdb (Partial PDB)
